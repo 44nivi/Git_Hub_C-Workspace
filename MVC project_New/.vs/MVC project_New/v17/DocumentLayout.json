@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Workspace\\MVC project_New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\books\\getter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\books\\getter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\home\\getemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\home\\getemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\home\\sortingguide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\home\\sortingguide.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\home\\newposter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\home\\newposter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\books\\addmore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\books\\addmore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\books\\sorting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\books\\sorting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\books\\posters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\books\\posters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\home\\getter_ui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\home\\getter_ui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\controllers\\businesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:controllers\\businesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\interfaces\\ibooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:interfaces\\ibooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\configuration\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:configuration\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\views\\home\\rprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:views\\home\\rprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\models\\businessid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:models\\businessid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|d:\\c# workspace\\mvc project_new\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A0B4A1-9849-4068-ADD7-0133971848BF}|MVC project_New.csproj|solutionrelative:middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T14:52:11.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Getter.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Books\\Getter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Getter.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Books\\Getter.cshtml",
+              "RelativeToolTip": "Views\\Books\\Getter.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T10:08:45.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Addmore.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Books\\Addmore.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Addmore.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Books\\Addmore.cshtml",
+              "RelativeToolTip": "Views\\Books\\Addmore.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T12:13:22.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewPoster.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\NewPoster.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\NewPoster.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\NewPoster.cshtml",
+              "RelativeToolTip": "Views\\Home\\NewPoster.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:12:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:12:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortingGuide.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\SortingGuide.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SortingGuide.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\SortingGuide.cshtml",
+              "RelativeToolTip": "Views\\Home\\SortingGuide.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:12:52.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "getemployee.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\getemployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\getemployee.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\getemployee.cshtml",
+              "RelativeToolTip": "Views\\Home\\getemployee.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T10:09:41.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:13:22.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:50:03.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sorting.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Books\\Sorting.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Sorting.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Books\\Sorting.cshtml",
+              "RelativeToolTip": "Views\\Books\\Sorting.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T12:13:22.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Posters.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Books\\Posters.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Posters.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Books\\Posters.cshtml",
+              "RelativeToolTip": "Views\\Books\\Posters.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T10:08:50.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "Services\\BooksService.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Services\\BooksService.cs",
+              "RelativeToolTip": "Services\\BooksService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:13:22.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Getter_UI.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\Getter_UI.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Getter_UI.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\Getter_UI.cshtml",
+              "RelativeToolTip": "Views\\Home\\Getter_UI.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T12:13:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusinessController.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Controllers\\BusinessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BusinessController.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Controllers\\BusinessController.cs",
+              "RelativeToolTip": "Controllers\\BusinessController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:50:22.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ibooks.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Interfaces\\Ibooks.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Ibooks.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Interfaces\\Ibooks.cs",
+              "RelativeToolTip": "Interfaces\\Ibooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:00:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:00:40.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookStoreDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Configuration\\BookStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Configuration\\BookStoreDatabaseSettings.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Configuration\\BookStoreDatabaseSettings.cs",
+              "RelativeToolTip": "Configuration\\BookStoreDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:02:46.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T05:11:13.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:50:42.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T12:55:57.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:13:22.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rprivacy.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\Rprivacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Rprivacy.cshtml",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Views\\Home\\Rprivacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Rprivacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:12:48.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BusinessId.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Models\\BusinessId.cs",
+              "RelativeDocumentMoniker": "Models\\BusinessId.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Models\\BusinessId.cs",
+              "RelativeToolTip": "Models\\BusinessId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:15:04.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:09:34.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\MVC project_New\\Middleware.cs",
+              "RelativeDocumentMoniker": "Middleware.cs",
+              "ToolTip": "D:\\C# Workspace\\MVC project_New\\Middleware.cs",
+              "RelativeToolTip": "Middleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:01:06.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Workspace\\Mvc_sample_Project_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|d:\\c# workspace\\mvc_sample_project_2\\mvc_sample_project_2\\views\\movies\\customer_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\views\\movies\\customer_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\views\\movies\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\views\\movies\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\views\\movies\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\views\\movies\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NivekRaman\\source\\repos\\Thread_Sample\\Thread_Sample\\BackgroundThread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NivekRaman\\source\\repos\\MVC_Project_Stage_1\\MVC_Project_Stage_1\\Models\\Customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\context\\moviedb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\context\\moviedb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\context\\customerdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\context\\customerdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\views\\movies\\customer_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\views\\movies\\customer_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\viewmodel\\randomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\viewmodel\\randomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|D:\\C# Workspace\\Mvc_sample_Project_2\\mvc_sample_project_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37C9EFEF-6E83-4902-8076-9BBF4F8E8A48}|Mvc_sample_Project_2\\Mvc_sample_Project_2.csproj|solutionrelative:mvc_sample_project_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customerdb_context.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Context\\Customerdb_context.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Context\\Customerdb_context.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Context\\Customerdb_context.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Context\\Customerdb_context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:12:37.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\packages.config",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\packages.config",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\packages.config",
+              "RelativeToolTip": "Mvc_sample_Project_2\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T11:11:38.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Addmovie.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\Addmovie.cshtml",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Views\\Movies\\Addmovie.cshtml",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\Addmovie.cshtml",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Views\\Movies\\Addmovie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:11:23.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Web.config",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Web.config",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Web.config",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Web.config",
+              "ViewState": "AQIAAC0AAAAAMzMzMzMrwEkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T11:11:23.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer_page.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\Customer_page.cshtml",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Views\\Movies\\Customer_page.cshtml",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\Customer_page.cshtml",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Views\\Movies\\Customer_page.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:11:23.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAACgMjMzMzMpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:11:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Controllers\\MoviesController.cs*",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Controllers\\MoviesController.cs*",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:14:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Models\\Customers.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Models\\Customers.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:52:17.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Views\\Movies\\AddCustomer.cshtml",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\AddCustomer.cshtml",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Views\\Movies\\AddCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:52:28.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "moviedb_context.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Context\\moviedb_context.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Context\\moviedb_context.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Context\\moviedb_context.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Context\\moviedb_context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:13:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackgroundThread.cs",
+              "DocumentMoniker": "C:\\Users\\NivekRaman\\source\\repos\\Thread_Sample\\Thread_Sample\\BackgroundThread.cs",
+              "ToolTip": "C:\\Users\\NivekRaman\\source\\repos\\Thread_Sample\\Thread_Sample\\BackgroundThread.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:17:08.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\NivekRaman\\source\\repos\\MVC_Project_Stage_1\\MVC_Project_Stage_1\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\NivekRaman\\source\\repos\\MVC_Project_Stage_1\\MVC_Project_Stage_1\\Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:16:53.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:11:23.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:11:23.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAUAAADQMjMzMzM3wBIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:11:23.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAQAAAAALzMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:11:23.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Views\\Movies\\Random.cshtml",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\Random.cshtml",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Views\\Movies\\Random.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-07-11T11:11:23.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Global.asax.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Global.asax.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Global.asax.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:11:23.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer_view.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\Customer_view.cshtml",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Views\\Movies\\Customer_view.cshtml",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Movies\\Customer_view.cshtml",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Views\\Movies\\Customer_view.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-07-11T11:11:23.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAKjMzMzMbwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-07-11T11:11:23.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RandomViewModel.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\ViewModel\\RandomViewModel.cs",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\ViewModel\\RandomViewModel.cs",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\ViewModel\\RandomViewModel.cs",
+              "RelativeToolTip": "Mvc_sample_Project_2\\ViewModel\\RandomViewModel.cs",
+              "ViewState": "AQIAAAAAAAAYMzMzMzMLwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:11:23.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-07-11T11:11:23.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mvc_sample_Project_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C# Workspace\\Mvc_sample_Project_2\\Mvc_sample_Project_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mvc_sample_Project_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-07-11T11:11:23.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

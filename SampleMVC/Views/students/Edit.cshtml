@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model SampleMVC.Models.Student
+
+@if (Model is null)
+{
+    <p>no students found with this id </p>
+}
+else{
+        <form method="post">
+
+
+            <h1>Edit student </h1>
+            <div class="name">
+                <label class=" form-label ">Id </label>
+                <input type="text" class="form1" asp-for="Id" readonly />
+
+            </div>
+
+            <div class="name">
+                <label class=" form-label ">Name </label>
+                <input type="text" class="form1" asp-for="Name" />
+
+            </div>
+
+            <div class="Description">
+                <label class=" form-label2 ">Description </label>
+                <input type="text" class="form2" asp-for="Description" />
+
+            </div>
+
+            <div class="phone">
+                <label class=" form-label3 ">Phone </label>
+                <input type="text" class="form3" asp-for="Phone" />
+
+            </div>
+
+            <div class="email">
+                <label class=" form-label4 ">Email </label>
+                <input type="text" class="form4" asp-for="Email" />
+
+            </div>
+
+            <div class="email">
+                <button type="submit" class="primary_button">Save </button>
+
+            </div>
+
+        </form>
+    }
+}

@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form id="myForm"  method="post">
+    <input type="hidden" name="bsonData" id="bsonData" />
+    <button type="button" onclick="sendBsonDocument()">Submit</button>
+</form>
+
+<script>
+
+    function sendBsonDocument() {
+    // Convert BSON data to JSON
+    const jsonData = BSON.deserialize(bsonData); // BSON to JSON
+
+    // Set hidden field value
+    document.getElementById('bsonData').value = JSON.stringify(jsonData);
+
+  
+
+        $.ajax({
+            url: '@Url.Action("PostValue", "students")',
+            type: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify(jsonData), // Send JSON data
+            success: function (response) {
+                console.log('Success:', response);
+                alert('Success! Response from server: ' + response);
+
+            },
+            error: function (error) {
+                console.error('Error:', error);
+            }
+        });
+
+
+</script>
+

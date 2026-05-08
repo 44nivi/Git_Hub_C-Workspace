@@ -1,0 +1,103 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model SampleMVC.Models.Add_Student_Model
+
+
+<style>
+    /* General styling for the form */
+    form {
+        width: 50%;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        background-color: #f9f9f9;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Styling for the labels */
+    label.form-label,
+    label.form-label2,
+    label.form-label3,
+    label.form-label4 {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+        color: #333;
+    }
+
+    /* Styling for the input fields */
+    input.form1,
+    input.form2,
+    input.form3,
+    input.form4 {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+    /* Styling for the button */
+    button.primary_button {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        button.primary_button:hover {
+            background-color: #0056b3;
+        }
+
+    /* Additional styling for better spacing and layout */
+    div {
+        margin-bottom: 20px;
+    }
+</style>
+
+<form method="post" action="Hit">
+
+
+<h1>Add student </h1>
+<div class="name">
+    <label class=" form-label ">Name </label>
+    <input type="text" class="form1" asp-for="Name"/>
+
+</div>
+
+<div class="Description">
+    <label class=" form-label2 ">Description </label>
+    <input type="text" class="form2" asp-for="Description" />
+
+</div>
+
+<div class="phone">
+    <label class=" form-label3 ">Phone </label>
+    <input type="text" class="form3" asp-for="Phone" />
+
+</div>
+
+<div class="email">
+    <label class=" form-label4 ">Email </label>
+    <input type="text" class="form4" asp-for="Email" /> 
+
+</div>
+
+<div class="email">
+    <button type="submit" class="primary_button">Save </button>
+
+</div>
+
+</form>

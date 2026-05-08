@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Workspace\\SampleMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\views\\students\\addmore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:views\\students\\addmore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\configuration\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:configuration\\mongodbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\views\\students\\newajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:views\\students\\newajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\models\\add_student_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:models\\add_student_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\models\\csharpcornerarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:models\\csharpcornerarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|d:\\c# workspace\\samplemvc\\views\\students\\edit1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BC64603-54B9-4DDA-B5BE-774527FDB48F}|SampleMVC.csproj|solutionrelative:views\\students\\edit1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MongoDbContext.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "Data\\MongoDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:36:16.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:00:33.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studentsController.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Controllers\\studentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\studentsController.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Controllers\\studentsController.cs",
+              "RelativeToolTip": "Controllers\\studentsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:00:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:35:45.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Addmore.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Views\\students\\Addmore.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\Addmore.cshtml",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Views\\students\\Addmore.cshtml",
+              "RelativeToolTip": "Views\\students\\Addmore.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T12:00:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Views\\students\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\Add.cshtml",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Views\\students\\Add.cshtml",
+              "RelativeToolTip": "Views\\students\\Add.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T08:21:48.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:21:56.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T13:22:46.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoDbConfiguration.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Configuration\\MongoDbConfiguration.cs",
+              "RelativeDocumentMoniker": "Configuration\\MongoDbConfiguration.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Configuration\\MongoDbConfiguration.cs",
+              "RelativeToolTip": "Configuration\\MongoDbConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:04:18.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewAjax.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Views\\students\\NewAjax.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\NewAjax.cshtml",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Views\\students\\NewAjax.cshtml",
+              "RelativeToolTip": "Views\\students\\NewAjax.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T05:29:09.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add_Student_Model.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Models\\Add_Student_Model.cs",
+              "RelativeDocumentMoniker": "Models\\Add_Student_Model.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Models\\Add_Student_Model.cs",
+              "RelativeToolTip": "Models\\Add_Student_Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:55:39.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:19:38.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:21:09.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T09:58:51.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T09:58:49.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CSharpCornerArticle.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Models\\CSharpCornerArticle.cs",
+              "RelativeDocumentMoniker": "Models\\CSharpCornerArticle.cs",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Models\\CSharpCornerArticle.cs",
+              "RelativeToolTip": "Models\\CSharpCornerArticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:55:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Views\\students\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\List.cshtml",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Views\\students\\List.cshtml",
+              "RelativeToolTip": "Views\\students\\List.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T12:00:33.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit1.cshtml",
+              "DocumentMoniker": "D:\\C# Workspace\\SampleMVC\\Views\\students\\Edit1.cshtml",
+              "RelativeDocumentMoniker": "Views\\students\\Edit1.cshtml",
+              "ToolTip": "D:\\C# Workspace\\SampleMVC\\Views\\students\\Edit1.cshtml",
+              "RelativeToolTip": "Views\\students\\Edit1.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T09:59:15.512Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

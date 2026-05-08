@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Workspace\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Deligates_pgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Deligates_pgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Loggerfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Loggerfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Generic_Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Generic_Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Singleton_sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Singleton_sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Dictionary_Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Dictionary_Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Shape_Abs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Shape_Abs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\DeligateExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\DeligateExample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Icomparable_sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Icomparable_sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\log_file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\log_file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Static_Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Static_Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Hashtable_collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Hashtable_collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\SingletonSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\SingletonSample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Genric_List.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Genric_List.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Generic_Type_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Generic_Type_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Class_Datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Class_Datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Arraylist_Collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Arraylist_Collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Abstract_Interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Abstract_Interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loggerfile.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Loggerfile.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Loggerfile.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Loggerfile.cs",
+              "RelativeToolTip": "ConsoleApp2\\Loggerfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:03.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generic_Class.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Generic_Class.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Generic_Class.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Generic_Class.cs",
+              "RelativeToolTip": "ConsoleApp2\\Generic_Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:00:14.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton_sample.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Singleton_sample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Singleton_sample.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Singleton_sample.cs",
+              "RelativeToolTip": "ConsoleApp2\\Singleton_sample.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwBsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:01:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dictionary_Class.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Dictionary_Class.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Dictionary_Class.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Dictionary_Class.cs",
+              "RelativeToolTip": "ConsoleApp2\\Dictionary_Class.cs",
+              "ViewState": "AQIAAAMAAACAMjMzMzMbwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape_Abs.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Shape_Abs.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Shape_Abs.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Shape_Abs.cs",
+              "RelativeToolTip": "ConsoleApp2\\Shape_Abs.cs",
+              "ViewState": "AQIAADsAAADAyczMzMwwwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeligateExample.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\DeligateExample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\DeligateExample.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\DeligateExample.cs",
+              "RelativeToolTip": "ConsoleApp2\\DeligateExample.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:03:24.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deligates_pgm.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Deligates_pgm.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Deligates_pgm.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Deligates_pgm.cs",
+              "RelativeToolTip": "ConsoleApp2\\Deligates_pgm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Icomparable_sample.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Icomparable_sample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Icomparable_sample.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Icomparable_sample.cs",
+              "RelativeToolTip": "ConsoleApp2\\Icomparable_sample.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwE4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:03.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "log_file.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\log_file.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\log_file.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\log_file.cs",
+              "RelativeToolTip": "ConsoleApp2\\log_file.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:03.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Static_Example.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Static_Example.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Static_Example.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Static_Example.cs",
+              "RelativeToolTip": "ConsoleApp2\\Static_Example.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:59:19.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hashtable_collection.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Hashtable_collection.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Hashtable_collection.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Hashtable_collection.cs",
+              "RelativeToolTip": "ConsoleApp2\\Hashtable_collection.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:03.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SingletonSample.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\SingletonSample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\SingletonSample.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\SingletonSample.cs",
+              "RelativeToolTip": "ConsoleApp2\\SingletonSample.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:01:49.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Genric_List.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Genric_List.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Genric_List.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Genric_List.cs",
+              "RelativeToolTip": "ConsoleApp2\\Genric_List.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:02:01.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Generic_Type_function.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Generic_Type_function.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Generic_Type_function.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Generic_Type_function.cs",
+              "RelativeToolTip": "ConsoleApp2\\Generic_Type_function.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:17:03.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class_Datatype.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Class_Datatype.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Class_Datatype.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Class_Datatype.cs",
+              "RelativeToolTip": "ConsoleApp2\\Class_Datatype.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wCcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:02.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Arraylist_Collection.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Arraylist_Collection.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Arraylist_Collection.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Arraylist_Collection.cs",
+              "RelativeToolTip": "ConsoleApp2\\Arraylist_Collection.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:36:38.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Abstract_Interface.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Abstract_Interface.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Abstract_Interface.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Abstract_Interface.cs",
+              "RelativeToolTip": "ConsoleApp2\\Abstract_Interface.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwF8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:31:37.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ConsoleApp2\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABQAAAAAZmZmZmYkwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:13:03.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp2\\App.config",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp2\\ConsoleApp2\\App.config",
+              "RelativeToolTip": "ConsoleApp2\\App.config",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-26T08:13:03.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

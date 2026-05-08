@@ -1,0 +1,22 @@
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\Log4Net.CSharp.exe.config
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\Log4Net.CSharp.exe
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\Log4Net.CSharp.pdb
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\log4net.dll
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\log4net.xml
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4NetCSharp.csproj.AssemblyReference.cache
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4NetCSharp.csproj.SuggestedBindingRedirects.cache
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4NetCSharp.csproj.CoreCompileInputs.cache
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4NetCSharp.csproj.CopyComplete
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4Net.CSharp.exe
+D:\visual studio workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4Net.CSharp.pdb
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\Log4Net.CSharp.exe.config
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\Log4Net.CSharp.exe
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\Log4Net.CSharp.pdb
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\log4net.dll
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\log4net.xml
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4NetCSharp.csproj.AssemblyReference.cache
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4NetCSharp.csproj.CoreCompileInputs.cache
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4NetC.FC6576CF.Up2Date
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4Net.CSharp.exe
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\obj\Debug\Log4Net.CSharp.pdb
+D:\C# Workspace\Log4Net.CSharp\Log4Net.CSharp\bin\Debug\log4net.config

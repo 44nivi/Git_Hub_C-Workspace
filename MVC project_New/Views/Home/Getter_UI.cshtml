@@ -1,0 +1,12 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form asp-controller="Books" asp-action="Getter" method="get">
+    <div class="form-group">
+        <label for="bookId">Book ID:</label>
+        <input type="text" class="form-control" id="bookId" name="id" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>

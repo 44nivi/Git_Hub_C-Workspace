@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Workspace\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\string_functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\string_functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\sampleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sampleinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\sampleabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sampleabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\program_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|d:\\c# workspace\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|d:\\c# workspace\\consoleapp1\\consoleapp1\\private_access_specifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\private_access_specifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\polymorphism_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\polymorphism_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\objectoreinted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\objectoreinted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\new_implement_inter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\new_implement_inter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\jagged_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\jagged_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\newfolder1\\objectclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\newfolder1\\objectclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\inheritance _class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inheritance _class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\implement_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\implement_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\enum_datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\enum_datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\double_dimension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\double_dimension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\conditional_iterative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\conditional_iterative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|D:\\C# Workspace\\ConsoleApp1\\consoleapp1\\abstract_class_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605AC693-8E5A-4C88-A873-B55B28F701D7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstract_class_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:16:21.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Polymorphism_example.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Polymorphism_example.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Polymorphism_example.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Polymorphism_example.cs",
+              "RelativeToolTip": "ConsoleApp1\\Polymorphism_example.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:56:23.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program_Arrays.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Program_Arrays.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program_Arrays.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Program_Arrays.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program_Arrays.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:01:04.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleAbstract.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\SampleAbstract.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SampleAbstract.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\SampleAbstract.cs",
+              "RelativeToolTip": "ConsoleApp1\\SampleAbstract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:00:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleInterface.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\SampleInterface.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SampleInterface.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\SampleInterface.cs",
+              "RelativeToolTip": "ConsoleApp1\\SampleInterface.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwCEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:53:48.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "String_functions.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\String_functions.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\String_functions.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\String_functions.cs",
+              "RelativeToolTip": "ConsoleApp1\\String_functions.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:01:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Objectoreinted.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Objectoreinted.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Objectoreinted.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Objectoreinted.cs",
+              "RelativeToolTip": "ConsoleApp1\\Objectoreinted.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:12:11.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "new_implement_inter.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\new_implement_inter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\new_implement_inter.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\new_implement_inter.cs",
+              "RelativeToolTip": "ConsoleApp1\\new_implement_inter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:52:21.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Library.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Library.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Library.cs",
+              "RelativeToolTip": "ConsoleApp1\\Library.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:09:24.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Jagged_Array.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Jagged_Array.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Jagged_Array.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Jagged_Array.cs",
+              "RelativeToolTip": "ConsoleApp1\\Jagged_Array.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T04:57:11.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Private_Access_Specifier.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Private_Access_Specifier.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Private_Access_Specifier.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Private_Access_Specifier.cs",
+              "RelativeToolTip": "ConsoleApp1\\Private_Access_Specifier.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:12:26.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "objectclass.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\NewFolder1\\objectclass.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NewFolder1\\objectclass.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\NewFolder1\\objectclass.cs",
+              "RelativeToolTip": "ConsoleApp1\\NewFolder1\\objectclass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:12:18.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inheritance _Class.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Inheritance _Class.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Inheritance _Class.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Inheritance _Class.cs",
+              "RelativeToolTip": "ConsoleApp1\\Inheritance _Class.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:50:17.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Interface1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface1.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Interface1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:49:17.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Double_dimension.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Double_dimension.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Double_dimension.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Double_dimension.cs",
+              "RelativeToolTip": "ConsoleApp1\\Double_dimension.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:03:47.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Abstract_class_example.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Abstract_class_example.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Abstract_class_example.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Abstract_class_example.cs",
+              "RelativeToolTip": "ConsoleApp1\\Abstract_class_example.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:49:19.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Implement_Interface.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Implement_Interface.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Implement_Interface.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Implement_Interface.cs",
+              "RelativeToolTip": "ConsoleApp1\\Implement_Interface.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:05:05.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Conditional_Iterative.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Conditional_Iterative.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Conditional_Iterative.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Conditional_Iterative.cs",
+              "RelativeToolTip": "ConsoleApp1\\Conditional_Iterative.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:46:40.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enum_Datatype.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Enum_Datatype.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Enum_Datatype.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Enum_Datatype.cs",
+              "RelativeToolTip": "ConsoleApp1\\Enum_Datatype.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:06:48.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class1.cs",
+              "ToolTip": "D:\\C# Workspace\\ConsoleApp1\\ConsoleApp1\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:44:50.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

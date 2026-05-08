@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Workspace\\Log4Net.CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|D:\\C# Workspace\\Log4Net.CSharp\\log4net.csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|d:\\c# workspace\\log4net.csharp\\log4net.csharp\\reflection_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\reflection_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|D:\\C# Workspace\\Log4Net.CSharp\\log4net.csharp\\reflectionfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\reflectionfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|D:\\C# Workspace\\Log4Net.CSharp\\log4net.csharp\\build_sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\build_sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|D:\\C# Workspace\\Log4Net.CSharp\\log4net.csharp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|D:\\C# Workspace\\Log4Net.CSharp\\log4net.csharp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|D:\\C# Workspace\\Log4Net.CSharp\\log4net.csharp\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|D:\\C# Workspace\\Log4Net.CSharp\\log4net.csharp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|D:\\C# Workspace\\Log4Net.CSharp\\log4net.csharp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CC57AC-B690-4060-BEF4-A59B50CDCAD8}|Log4Net.CSharp\\Log4NetCSharp.csproj|solutionrelative:log4net.csharp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Log4Net.CSharp\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:12:15.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\Program.cs",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Program.cs",
+              "RelativeToolTip": "Log4Net.CSharp\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:56:08.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "log4net.config",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\log4net.config",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\log4net.config",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\log4net.config",
+              "RelativeToolTip": "Log4Net.CSharp\\log4net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T11:19:27.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Class1.cs",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\Class1.cs",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Class1.cs",
+              "RelativeToolTip": "Log4Net.CSharp\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:19:27.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Build_Sample.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Build_Sample.cs",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\Build_Sample.cs",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Build_Sample.cs",
+              "RelativeToolTip": "Log4Net.CSharp\\Build_Sample.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:54:42.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reflection_demo.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Reflection_demo.cs",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\Reflection_demo.cs",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\Reflection_demo.cs",
+              "RelativeToolTip": "Log4Net.CSharp\\Reflection_demo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:14:57.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReflectionFunction.cs",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\ReflectionFunction.cs",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\ReflectionFunction.cs",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\ReflectionFunction.cs",
+              "RelativeToolTip": "Log4Net.CSharp\\ReflectionFunction.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:15:20.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\App.config",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\App.config",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\App.config",
+              "RelativeToolTip": "Log4Net.CSharp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T11:37:48.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\packages.config",
+              "RelativeDocumentMoniker": "Log4Net.CSharp\\packages.config",
+              "ToolTip": "D:\\C# Workspace\\Log4Net.CSharp\\Log4Net.CSharp\\packages.config",
+              "RelativeToolTip": "Log4Net.CSharp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T11:23:04.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿@model Mvc_sample_Project_2.RandomViewModel
+
+@{
+    ViewBag.Title = "Customer_view";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of Customers</h2>
+
+
+
+
+@if (Model.Customers.Count == 0)
+{
+    <p>No one has rendered the movie </p>
+}
+else
+{
+
+    <ul>
+        @foreach (var customer in Model.Customers)
+        {
+            <li> @Html.ActionLink(customer.Name, "Customer_page", "Movies", new { Id = customer.Id, Name = customer.Name }, new { @class = "nav-link" })</li>
+
+        }
+    </ul>
+}
+<p class="lead">The number of given customers are @Model.Customers.Count</p>
+

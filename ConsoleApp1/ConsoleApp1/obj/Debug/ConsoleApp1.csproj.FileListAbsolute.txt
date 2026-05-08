@@ -1,0 +1,15 @@
+D:\visual studio workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\visual studio workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\visual studio workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\visual studio workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\visual studio workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\visual studio workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\visual studio workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\visual studio workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\C# Workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\C# Workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\C# Workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\C# Workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\C# Workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\C# Workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\C# Workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

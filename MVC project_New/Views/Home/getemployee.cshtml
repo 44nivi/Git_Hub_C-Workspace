@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Get Employee";
+
+}
+@model MVC_project_New.Models.BusinessId;
+
+
+  @*  <div class="form-group">
+        <label for="EmployeeId">Employee ID:</label>
+        <input type="number" class="form-control" id="EmployeeId" name="EmployeeId" required  asp-for="Id"/>
+    </div>
+    <button type="submit" class="btn btn-primary">Get Details</button>*@
+
+<form method="post">
+
+    <label for="employeeId">Employee ID:</label>
+    <input type="text" id="employeedetails" name="employee details" />
+    <button type="button" onclick="submitEmployeeDetails()">Submit</button>
+</form>
+
+@section Scripts {
+    <script>
+        function submitEmployeeDetails() {
+            var employeeId = document.getElementById('employeedetails').value;
+            
+            // Make AJAX request to the API endpoint
+            $.ajax({
+                url: '/Business/' + employeeId,
+                type: 'POST',
+                success: function(response) {
+                    alert('Success! Response from server: ' + response);
+                    // Handle success response if needed
+                },
+                error: function(xhr, status, error) {
+                    alert('Error! ' + error);
+                    // Handle error if needed
+                }
+            });
+        }
+    </script>
+    }
